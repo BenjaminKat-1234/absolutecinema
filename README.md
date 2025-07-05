@@ -8,3 +8,7 @@ Once you finish, your GIF should appear in your files
 
 Download:
 Right-click the finished GIF and click download
+
+Tip:
+
+Before you bring your absolute cinema into the generator, i recommend you bring it into a black and white converter first
