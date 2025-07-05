@@ -1,3 +1,5 @@
+from PIL import Image
+
 new_image_path = "Sharkbooidk.png"
 new_image = Image.open(new_image_path).convert("RGBA")
 
