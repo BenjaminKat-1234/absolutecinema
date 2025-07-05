@@ -1,4 +1,4 @@
-new_image_path = "/mnt/data/Sharkbooidk.png"
+new_image_path = "Sharkbooidk.png"
 new_image = Image.open(new_image_path).convert("RGBA")
 
 num_frames = 40
@@ -14,7 +14,7 @@ hold_frame_count = hold_duration // 70
 final_frame = frames[-1]
 frames += [final_frame] * hold_frame_count
 
-output_gif_path = "/mnt/data/absolute_cinema_fadein_sharkbooidk.gif"
+output_gif_path = "absolutecinemasharkbooidk.gif"
 frames[0].save(
     output_gif_path,
     format="GIF",
