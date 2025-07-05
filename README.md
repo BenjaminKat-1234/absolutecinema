@@ -11,4 +11,4 @@ Right-click the finished GIF and click download
 
 Tip:
 
-Before you bring your absolute cinema into the generator, i recommend you bring it into a black and white converter first
+Before you bring your absolute cinema image into the generator, I recommend you bring it into a black-and-white converter first (i used https://blackandwhite.imageonline.co/)
